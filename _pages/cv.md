@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Mechanics, Laboratoire Angevin de Mécanique, Procédés et innovAtion (LAMPA), Arts et Métiers (ENSAM), Angers, France, 2025
+  * Dissertation: *Multiphysics and multi-scale numerical approach to damage: Application to rock salt*
+  * Keywords: Numerical Implementation, Phase Field Fracture, Crystal Plasticity, Cohesive Zone Model, C++, Damage Mechanics, Fracture Mechanics
+  * Supervisors: S. El Arem, A. Ammar
+* MSc in Geotechnical Engineering (MSROE), École des Ponts ParisTech, Champs-sur-Marne, France, 2022
+  * Focus: mechanics of soils, rocks, and structures in their environment
+* BSc in Civil Engineering, Higher School of Engineering of Beirut (ESIB), Beirut, Lebanon, 2021
+  * Specialization: public works and transportation
 
-Work experience
+Current Position
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Researcher, EMSIA, ENSTA Paris, Palaiseau, France (2026–present)
+  * Modeling of fracture in DSS Steel using LEFM and phase-field methods (FEniCS)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Computational solid mechanics; phase-field fracture; crystal plasticity; cohesive-zone modeling; polycrystalline materials; multiscale/multiphysics simulation; rock salt mechanics; high-performance computing (FEM).
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Technical Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Programming:** Python, C++, MATLAB, LaTeX
+* **Numerics/HPC:** FEM, phase-field fracture, cohesive-zone modeling, crystal plasticity, nonlinear solvers; scripting for batch jobs, MOOSE
+* **Software:** MATLAB/Simulink, PLAXIS, AutoCAD, Autodesk Robot Structural Analysis, EPANET, Autodesk 3ds Max (basic), Adobe Photoshop
+* **Office:** Word, PowerPoint, Excel (incl. VBA)
+
+Languages
+======
+* English (fluent)
+* French (fluent)
+
+References
+======
+Available upon request.
