@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-esmc-multiscale-rock-salt
 venue: "European Solid Mechanics Conference (ESMC)"
-date: 2025-07-01
+date: 2025-07-09
 location: "Lyon, France"
 ---
 
