@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-iwpdfem-crack-propagation-rock-salt
 venue: "4th International Workshop on Plasticity, Damage and Fracture of Engineering Materials"
-date: 2025-09-01
+date: 2025-09-25
 location: "Istanbul, Turkey"
 ---
 
