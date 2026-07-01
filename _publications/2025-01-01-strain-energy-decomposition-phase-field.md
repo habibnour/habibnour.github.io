@@ -1,6 +1,7 @@
 ---
 title: "On the strain energy decomposition in phase field brittle fracture: established models and novel cleavage plane-based techniques"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-strain-energy-decomposition-phase-field
 excerpt: 'Established and novel cleavage plane-based strain energy decomposition models for phase-field brittle fracture.'
 date: 2025-01-01
