@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2025-aussois-poster-rock-salt
 venue: "Colloque National d'Aussois"
-date: 2025-03-01
+date: 2025-01-27
 location: "Aussois, France"
 ---
 
