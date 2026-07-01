@@ -1,6 +1,7 @@
 ---
 title: "Coupled crystal plasticity-cohesive zone modeling of rock salt viscoplasticity"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-crystal-plasticity-cohesive-zone-rock-salt
 excerpt: 'A coupled crystal plasticity-cohesive zone framework for modeling viscoplastic behavior in rock salt.'
 date: 2025-06-01
