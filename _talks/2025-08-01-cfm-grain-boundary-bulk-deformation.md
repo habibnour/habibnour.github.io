@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-cfm-grain-boundary-bulk-deformation
 venue: "26ème Congrès Français de Mécanique (CFM)"
-date: 2025-08-01
+date: 2025-08-27
 location: "Metz, France"
 ---
 
