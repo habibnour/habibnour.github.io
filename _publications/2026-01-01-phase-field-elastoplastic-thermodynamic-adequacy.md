@@ -1,6 +1,7 @@
 ---
 title: "Phase field fracture in elastoplastic materials: Thermodynamic adequacy of some coupling strategies"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-phase-field-elastoplastic-thermodynamic-adequacy
 excerpt: 'Examines the thermodynamic adequacy of coupling strategies between phase-field fracture and elastoplasticity.'
 date: 2026-01-01
