@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-msec-strain-energy-formulation
 venue: "Materials Science and Engineering Congress"
-date: 2024-09-01
+date: 2024-09-25
 location: "Darmstadt, Germany"
 ---
 
