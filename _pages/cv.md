@@ -22,7 +22,7 @@ Education
 
 Current Position
 ======
-* Postdoctoral Researcher, EMSIA, ENSTA Paris, Palaiseau, France (2026–present)
+* Postdoctoral Researcher, IMSIA, ENSTA Paris, Palaiseau, France (2026–present)
   * Modeling of fracture in DSS Steel using LEFM and phase-field methods (FEniCS)
 
 Research Interests
