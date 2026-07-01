@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [EMSIA](https://www.ensta-paris.fr/), ENSTA Paris, in Palaiseau, France, working on computational solid mechanics with a focus on fracture and damage in engineering materials.
+I am a postdoctoral researcher at [IMSIA](https://www.ensta-paris.fr/), ENSTA Paris, in Palaiseau, France, working on computational solid mechanics with a focus on fracture and damage in engineering materials.
 
 I completed my PhD in Mechanics at the [Laboratoire Angevin de Mécanique, Procédés et innovAtion (LAMPA)](https://www.ensam.eu), Arts et Métiers (ENSAM), Angers, in December 2025, under the supervision of S. El Arem and A. Ammar. My dissertation, *Multiphysics and multi-scale numerical approach to damage: Application to rock salt*, developed coupled phase-field fracture, crystal plasticity, and cohesive-zone models to study damage and fracture in polycrystalline rock salt across scales.
 
